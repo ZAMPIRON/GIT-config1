@@ -18,12 +18,18 @@ Passo 4:
 Utilizamos o endereço que apareceu logo que criamos o repositório
 <img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/aa9522b3-bfa3-4b26-940f-9639c050c407" />
 Porém, percebemos (na imagem abaixo) que quando listamos os arquivos e pastas usando o 'ls' e não apareceu nada, porque? o arquivo estava oculto, para ver arquivos ocultos, utilizamos o '-a'.
-<img width="970" height="537" alt="image" src="https://github.com/user-attachments/assets/74945b3f-b750-4793-a176-0fe5c691fe49" />
+FALTA A FOTOOO
 
 #### ✅ **Atividade 1.3 – Adicionando e Commitando Arquivos**
 <img width="970" height="537" alt="image" src="https://github.com/user-attachments/assets/9cf6d5f5-1c33-4962-bb92-74b0b3bee7c0" />
 Então, eu esqueci de verificar o status que seria o passo 2 e do 4... mas sem problema. Mas o que importa é que no fim funcionou pela ultima mensagem.
-primeiros 
+Vamos por partes, primeiro criamos o arquivo, usando o comando 'touch', depois, o certo ceria verificar o status, adicionamos o arquivo ao stage, depois, o certo seria verificar denovo o status, commitamos.
+Desafio:
+<img width="1657" height="858" alt="image" src="https://github.com/user-attachments/assets/bccf8b7e-bac4-4ac6-83cb-2a131d4fa562" />
+<img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/8365d8a9-532d-4c2f-90d9-e220f0799d74" />
+<img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/47cfdbb9-c1b1-4b35-8157-0ae013660de2" />
+<img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/c94f2e63-9693-42b4-8f89-79ecd6969f5d" />
+
 #### ✅ **Atividade 1.4 – Visualizando o Histórico**
 ----------//------------
 ### Nível 2
